@@ -11,5 +11,10 @@
     <PackageReference Include="System.IO.Packaging" Version="5.0.0" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="GeneratedFiles\" />
+    <Folder Include="Uploads\" />
+  </ItemGroup>
+
 
 </Project>
